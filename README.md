@@ -19,5 +19,3 @@ This project implements **vision-based motor control** using a **Raspberry Pi ca
 - Autonomous Vehicles  
 - Gesture-Controlled Robots  
 - Object-Tracking Systems  
-
-Let me know if you need further tweaks! 🚀  
